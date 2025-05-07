@@ -5,10 +5,10 @@ Perfect for robotics beginners, educational purposes, or automated delivery syst
 
 🚀 Features
 
-Arduino Nano – Main controller
-5 Array IR Sensors – Line detection
-L298N Motor Driver – Motor control
-2x DC Gear Motors – Drive system
-Caster Wheel – Balance support
-Chassis – Robot frame
-1200mah Lipo battery – Power supply
+1. Arduino Nano – Main controller
+2. 5 Array IR Sensors – Line detection
+3. L298N Motor Driver – Motor control
+4. 2x DC Gear Motors – Drive system
+5. Caster Wheel – Balance support
+6. Chassis – Robot frame
+7. 1200mah Lipo battery – Power supply
